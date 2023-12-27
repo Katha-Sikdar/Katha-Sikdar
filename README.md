@@ -1,5 +1,6 @@
 
-![bug](https://github.com/Katha-Sikdar/Katha-Sikdar/assets/82141562/f6cf13cd-1e3e-4282-a71c-c36a50c9ae26)
+
+![bug](https://github.com/Katha-Sikdar/Katha-Sikdar/assets/82141562/c500fcc8-ddf8-413a-9cbd-4947d17329a9)
 
 
 <h1 align="center">Hi 👋, I'm Jannatul Ferdous Katha</h1>
