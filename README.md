@@ -1,8 +1,4 @@
 
-
-![bug](https://github.com/Katha-Sikdar/Katha-Sikdar/assets/82141562/c500fcc8-ddf8-413a-9cbd-4947d17329a9)
-
-
 <h1 align="center">Hi 👋, I'm Jannatul Ferdous Katha</h1>
 <h3 align="center">I'm A Passionate and highly motivated SQA Engineer</h3>
 <h4 align="center"> I have completed my bachelor degree from Green University of Bangladesh. I have intense knowledge on Software testing both Manual and Automation testing. I believe that Human inventiveness knows no bounds when it comes to solving problems.</h4>
