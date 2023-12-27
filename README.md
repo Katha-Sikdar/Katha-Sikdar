@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jannatul Ferdous Katha</h1>
 <h3 align="center">I'm A Passionate and highly motivated SQA Engineer</h3>
-<h5 align="center"> I have completed my Graduation in Computer Science and Engineering from Green University of Bangladesh. I have intense knowledge on Software testing both Manual and Automation testing. I believe that Human inventiveness knows no bounds when it comes to solving problems.</h5>
+<h5 align="center"> I have done my Graduation in Computer Science and Engineering from Green University of Bangladesh. I have intense knowledge on Software testing both Manual and Automation testing. I believe that Human inventiveness knows no bounds when it comes to solving problems.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katha-sikdar&label=Profile%20views&color=0e75b6&style=flat" alt="katha-sikdar" /> </p>
 
