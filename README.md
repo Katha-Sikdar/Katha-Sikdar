@@ -5,7 +5,7 @@
 
 I'm A Passionate and highly motivated SQA Engineer and a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
 
-I got my Bachelor Degree from the Green University of Bangladesh. My research field was cDatabase Security and Digital Watermarking with significant overlaps in Cryptography, Data Privacy and Integrity, and Performance Evaluation and Project Scheduling and Operations Research domains, with significant focus on Resource Allocation and Budget Management.
+I got my Bachelor Degree from the Green University of Bangladesh. My research field was Database Security and Digital Watermarking with significant overlaps in Cryptography, Data Privacy and Integrity, and Performance Evaluation and Project Scheduling and Operations Research domains, with significant focus on Resource Allocation and Budget Management.
 
 Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
