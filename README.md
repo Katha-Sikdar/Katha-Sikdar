@@ -134,14 +134,17 @@ __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - compreh
 
 <<h3 align="center">I'm A Passionate and highly motivated SQA Engineer</h3> -->
 
-
+<!--
 - 👨‍💻 All of my projects are available at [https://github.com/Katha-Sikdar](https://github.com/Katha-Sikdar)
 
 <!-- - 💬 Ask me about **Web Automation testing and Manual testing.** -->
 
-- 📫 How to reach me **ferdouskatha@gmail.com**
+<!-- - 📫 How to reach me **ferdouskatha@gmail.com** -->
 
-__How to reach me__
+## All of my projects are available at 
+  [https://github.com/Katha-Sikdar](https://github.com/Katha-Sikdar)
+  
+## How to reach me
 **ferdouskatha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
