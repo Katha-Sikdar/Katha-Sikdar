@@ -141,6 +141,9 @@ __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - compreh
 
 - 📫 How to reach me **ferdouskatha@gmail.com**
 
+__How to reach me__
+**ferdouskatha@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jannatul ferdous katha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jannatul ferdous katha" height="30" width="40" /></a>
