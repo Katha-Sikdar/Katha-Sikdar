@@ -10,7 +10,7 @@ I got my Bachelor Degree from the Green University of Bangladesh. My research fi
 Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive] (https://drive.google.com/drive/u/1/home).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/drive/u/1/home).
 
 ## Skills
 
