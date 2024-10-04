@@ -148,7 +148,7 @@ __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - compreh
 
 
 ## My Leetcode Profile 
-  [(https://leetcode.com/u/FM8rH1XL4P/)]
+  (https://leetcode.com/u/FM8rH1XL4P/)
   
 ## How to reach me
 **ferdouskatha@gmail.com**
