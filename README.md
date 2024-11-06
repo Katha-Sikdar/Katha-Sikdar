@@ -3,7 +3,7 @@
 
 ## About me 
 
-I'm A Passionate and highly motivated SQA Engineer with 3 years 6 months of work experience and a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+I'm A Passionate and highly motivated SQA Engineer with a vast of work experience and a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
 
 In my entire life I have conducted a number of manual and automation testing as well as using versatile types of tools and technologies, such as JAVA, Python, Selenium, TestNG, Postman and so on. Besides this, I have experience with a few AWS cloud services. For example, AWS cloud front cost Optimization, AWS lambda functions etc. Right now, I am looking to be a part of a company that will allow me to be aced in software testing as I want to be more perfect and want to serve more qualityfull and bug free products. Along with this, I want to be an expert in the automation field so that I wish to learn additional skills and explore new things and techniques.
 
@@ -11,8 +11,8 @@ I got my Bachelor Degree from the Green University of Bangladesh. My research fi
 
 Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively learning new techniques and tools to become an automation expert as I want to be more perfect and wish to delivery flawless, bug free and qualityfull product.
 
-## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1LhoThzGgdm-tEKOWWDJtakko-lUtfOIg/view?usp=sharing).
+<!-- ## CV
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1LhoThzGgdm-tEKOWWDJtakko-lUtfOIg/view?usp=sharing). -->
 
 ## Skills
 
