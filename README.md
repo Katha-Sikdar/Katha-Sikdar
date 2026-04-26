@@ -44,6 +44,9 @@ Email: [ferdouskatha@gmail.com]
 
 Location: Dhaka, Bangladesh (Open to Global Remote Projects)
 
+### 📩 Let's Discuss Your Project!
+Ready to discuss your project? [Book a 1:1 SQA & Security Strategy Call](https://calendly.com/ferdouskatha35/30min)
+
 
 ## All of my projects are available at 
   [https://github.com/Katha-Sikdar](https://github.com/Katha-Sikdar)
