@@ -3,7 +3,7 @@
 
 ## About me 
 
-I am a Senior SQA Engineer with 5+ years of experience in ensuring the quality and security of high-stakes digital products, specifically in Fintech and eCommerce. Transitioning from a background in Research Chemistry, I bring a unique analytical rigor to software testing—combining structured detail with a passion for problem-solving.
+I am a Senior SQA Engineer with 6+ years of experience in ensuring the quality and security of high-stakes digital products, specifically in Fintech and eCommerce. Transitioning from a background in Research Chemistry, I bring a unique analytical rigor to software testing—combining structured detail with a passion for problem-solving.
 
 Currently pursuing an MSc in Cyber Security (GPA: 4.0/4.0), I focus on bridging the gap between quality assurance and security integrity.
 
@@ -37,19 +37,19 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 ### Why Me?
 My research-driven mindset means I don’t just "find bugs"—I analyze root causes. Whether it's writing complex SQL subqueries or optimizing AWS costs, my goal is always to deliver flawless, quality-full, and secure products.
 
-### Connect with Me
-LinkedIn: [www.linkedin.com/in/jannatul-ferdous-katha-036810148]
+<!--- ### Connect with Me
+LinkedIn: [www.linkedin.com/in/jannatul-ferdous-katha-036810148] 
 
-Email: [ferdouskatha@gmail.com]
+Email: [ferdouskatha@gmail.com] -->
 
 Location: Dhaka, Bangladesh (Open to Global Remote Projects)
 
-### 📩 Let's Discuss Your Project!
-Ready to discuss your project? [Book a 1:1 SQA & Security Strategy Call](https://calendly.com/ferdouskatha35/30min)
+ <!-- ### 📩 Let's Discuss Your Project!
+Ready to discuss your project? [Book a 1:1 SQA & Security Strategy Call](https://calendly.com/ferdouskatha35/30min)  -->
 
 
 ## All of my projects are available at 
-  [https://github.com/Katha-Sikdar](https://github.com/Katha-Sikdar)
+ <!-- [https://github.com/Katha-Sikdar](https://github.com/Katha-Sikdar) -->
 
 
 ## My Leetcode Profile 
