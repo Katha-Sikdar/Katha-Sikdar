@@ -1,74 +1,69 @@
+<h1 align="center">Hi 👋, I'm Jannatul Ferdous Katha — SQA Managed Services & Solutions Provider</h1>
 
-<h1 align="center">Hi 👋, I'm Jannatul Ferdous Katha - Senior SQA & Cyber Security Enthusiast </h1>
+<p align="center">
+  <strong>Scalable Test Automation • Comprehensive Manual Testing • Security-Minded QA Architecture</strong>
+</p>
 
-## About me 
+## 🚀 Managed Services & Technical SQA Expertise
+I provide end-to-end, on-demand **Managed SQA Services** for international businesses, engineering teams, and enterprise clients. Whether you need a robust automation infrastructure built from scratch or comprehensive manual coverage for critical product releases, I deliver independent, task-focused, and highly reliable QA solutions.
 
-I am a Senior SQA Engineer with 6+ years of experience in ensuring the quality and security of high-stakes digital products, specifically in Fintech and eCommerce. Transitioning from a background in Research Chemistry, I bring a unique analytical rigor to software testing—combining structured detail with a passion for problem-solving.
+*   **Global Remote Delivery:** Actively handling complex validation pipelines across **Upwork** and direct remote contracts for international teams.
+*   **Domain Focus:** Specialized in testing high-stakes **FinTech infrastructures**, scaling high-traffic **eCommerce** flows, and securing multi-tenant **SaaS applications**.
+*   **Security-Infused QA:** Utilizing my advanced academic framework (MSc in Cyber Security, GPA: 4.0/4.0) to identify logic flaws, data mapping anomalies, and core application vulnerabilities before they reach production.
 
-Currently pursuing an MSc in Cyber Security (GPA: 4.0/4.0), I focus on bridging the gap between quality assurance and security integrity.
+---
 
-<!-- ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1LhoThzGgdm-tEKOWWDJtakko-lUtfOIg/view?usp=sharing). -->
+### 🛠️ Core Tech Stack & Managed Capabilities
 
-
-<!-- You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section. -->
-
-### 🛠️ Technical Arsenal
-
-| Category | Skills & Tools |
+| Category | Enterprise Capabilities & Tooling |
 | :--- | :--- |
-| **Automation** | Selenium WebDriver, TestNG, Cucumber, Java, Python |
-| **Testing Types** | Manual, Functional, Regression, API (REST/SOAP), UAT, Security |
-| **Security & Cloud** | Database Security, AWS (Lambda, CloudFront Cost Optimization) |
-| **API & Tools** | Postman, JMeter, BlazeMeter, K6, Jira, Browser DevTools, VirtualBox, SQL (Complex Queries) |
-| **Methodologies** | Functional Decomposition, Pairwise Testing, Boundary Value Analysis |
+| **Automation Frameworks** | Playwright, Selenium WebDriver, Cypress, Appium (iOS/Android), TestNG, JUnit, NUnit, SpecFlow, Cucumber |
+| **API & Backend Validation** | Postman, Bruno, Microservices Architecture Testing, Data Mapping, Complex SQL Stored Procedures & Triggers |
+| **Performance & Load** | JMeter, BlazeMeter, K6, Traffic & Load Stress Testing |
+| **DevOps & CI/CD Pipelines** | Azure DevOps, Jenkins, AWS (CloudWatch, Lambda), Git Infrastructure |
+| **Test Governance** | Jira (Scrum/Kanban Boards), Azure Boards, TestRail, Test Strategy & RTM Architecture |
+| **Security Testing** | Burp Suite, OWASP Top 10 Tracking, Zaproxy, Vulnerability Assessments |
 
 ---
 
-### Professional Highlights
+### 🎯 Managed Service Highlights & Business Impact
 
-* Complex Systems Specialist: Experienced in testing high-stakes applications with intricate business logic and secure transaction workflows.
-*  Performance & Efficiency Driven: Skilled in Resource Allocation, Budget Management, and streamlining Project Scheduling for optimal quality delivery.
-* Academic Excellence: Strong research background in **Database Security** and **Digital Watermarking**, ensuring a security-first approach to QA.
-* Continuous Learner: Currently mastering advanced automation frameworks and **ISTQB standards** to implement global best practices.
+*   **Framework Architecture from Scratch:** Expert at designing scalable, maintainable automation repositories that remote engineering teams can instantly plug into their deployment workflows.
+*   **Release Governance & Risk Management:** Proven history of defining core QA KPIs (Defect Leakage, Sprint Velocity) that eliminate critical bugs, minimizing production risks and reducing manual validation time by up to 40%.
+*   **Independent Task Ownership:** Trusted by global clients to review PRDs/BRS documentation, translate complex business workflows into bulletproof test suites, and execute delivery independently with minimal supervision.
 
 ---
 
-### Why Me?
-My research-driven mindset means I don’t just "find bugs"—I analyze root causes. Whether it's writing complex SQL subqueries or optimizing AWS costs, my goal is always to deliver flawless, quality-full, and secure products.
+### 💼 Portfolio & Production-Ready Repositories
+Below you will find production-grade code samples, automation architectures, and framework configurations built to professional, enterprise-level standards:
 
-<!--- ### Connect with Me
-LinkedIn: [www.linkedin.com/in/jannatul-ferdous-katha-036810148] 
+*   **[Web Automation Hub](https://github.com/Katha-Sikdar/Sauce-Demo-Automation-Take-Home-Exercise):** Multi-browser regression frameworks utilizing modern frameworks like Playwright and Selenium.
+*   **[Mobile Testing Suite](https://github.com/Katha-Sikdar/sauce-demo.com-automation):** Robust native/responsive app validation matrices using Appium.
+*   **[API Testing Frameworks](https://github.com/Katha-Sikdar/microservices-api):** End-to-end secure integration testing collections and backend validation suites.
 
-Email: [ferdouskatha@gmail.com] -->
+---
 
-Location: Dhaka, Bangladesh (Open to Global Remote Projects)
+### 🌐 Connect for SQA Consulting & Task Delegations
+Ready to secure your release pipeline, scale your automation coverage, or delegate critical manual testing tasks? Let's discuss your product requirements.
 
- <!-- ### 📩 Let's Discuss Your Project!
-Ready to discuss your project? [Book a 1:1 SQA & Security Strategy Call](https://calendly.com/ferdouskatha35/30min)  -->
+*   **Location:** Dhaka, Bangladesh (Fully equipped for global asynchronous remote operations)
+*   **Professional Workspace:** Available on Upwork , Fiver, TopTal, and remote client portals.
+*   **LeetCode Technical Profile:** [View Competitive Problem Solving](https://leetcode.com/u/FM8rH1XL4P/)
+*   **LinkedIn Professional Network:** [linkedin.com/in/jannatul-ferdous-katha](https://linkedin.com/in/jannatul-ferdous-katha)
+*   **Direct Contact:** ferdouskatha35@gmail.com
 
+---
 
-## All of my projects are available at 
- <!-- [https://github.com/Katha-Sikdar](https://github.com/Katha-Sikdar) -->
+<h3 align="left">Languages, Tools, and Automated Ecosystems:</h3>
+<p align="left"> 
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+</p>
 
-
-## My Leetcode Profile 
-  https://leetcode.com/u/FM8rH1XL4P/
-  
-<!--## How to reach me
-**ferdouskatha@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jannatul ferdous katha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jannatul ferdous katha" height="30" width="40" /></a>
-<a href="https://fb.com/jannatul ferdous katha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jannatul ferdous katha" height="30" width="40" /></a>
-</p> --->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=katha-sikdar&show_icons=true&locale=en&layout=compact" alt="katha-sikdar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katha-sikdar&show_icons=true&locale=en" alt="katha-sikdar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katha-sikdar&" alt="katha-sikdar" /></p>
